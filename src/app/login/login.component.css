@@ -1,0 +1,36 @@
+
+mat-card{
+    max-width: 40%;
+    margin: 5em auto;
+    text-align: center;
+    max-height: 60%;
+    
+    
+}
+.header{
+    text-align: center;
+}
+.full-width{
+    width: 80%;
+    height: 20%;
+}
+.forgot{
+    padding-left: 0px;
+}
+.email input{
+    padding-top: 10px;
+}
+.link{
+    float:right;
+    padding-right: 60px;
+    text-decoration: none;
+    color: blue;
+}
+button{
+    margin-top: 7%;
+    left: 15%;
+}
+h2{
+    color: red;
+    background-color: rgb(228, 234, 234);
+}
