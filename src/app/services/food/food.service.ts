@@ -43,7 +43,7 @@ export class FoodService {
       favourite:false,
       origins:['germany','us'],
       stars:4.5,
-      imageUrl:'./assets/food-1.jpg',
+      imageUrl:'../assets/food-1.jpg',
       tags:['FastFood','Hamburger'],
      },
      {
@@ -54,7 +54,7 @@ export class FoodService {
       favourite:false,
       origins:['germany','us'],
       stars:3.5,
-      imageUrl:'./assets/food-2.jpg',
+      imageUrl:'../assets/food-2.jpg',
       tags:['FastFood','Hamburger'],
      },
      {
@@ -65,7 +65,7 @@ export class FoodService {
       favourite:false,
       origins:['England','Malaysia'],
       stars:3.5,
-      imageUrl:'./assets/food-3.jpg',
+      imageUrl:'../assets/food-3.jpg',
       tags:['FastFood','Hamburger'],
      },
      {
@@ -76,7 +76,7 @@ export class FoodService {
       favourite:false,
       origins:['germany','us'],
       stars:3.7,
-      imageUrl:'./assets/food-4.jpg',
+      imageUrl:'../assets/food-4.jpg',
       tags:['FastFood','Hamburger'],
      },
      {
@@ -87,7 +87,7 @@ export class FoodService {
       favourite:false,
       origins:['India','Norve'],
       stars:4.0,
-      imageUrl:'./assets/food-5.jpg',
+      imageUrl:'../assets/food-5.jpg',
       tags:['FastFood','Hamburger'],
      },
      {
@@ -98,7 +98,7 @@ export class FoodService {
       favourite:false,
       origins:['germany','us'],
       stars:3.8,
-      imageUrl:'./assets/food-6.jpg',
+      imageUrl:'../assets/food-6.jpg',
       tags:['FastFood','Hamburger'],
      },
      {
@@ -109,7 +109,7 @@ export class FoodService {
       favourite:false,
       origins:['Australia','SA'],
       stars:4.9,
-      imageUrl:'./assets/food-7.jpg',
+      imageUrl:'../assets/food-7.jpg',
       tags:['FastFood','Hamburger'],
      },
      {
@@ -120,7 +120,7 @@ export class FoodService {
       favourite:false,
       origins:['germany','us'],
       stars:5.0,
-      imageUrl:'./assets/food-8.jpg',
+      imageUrl:'../assets/food-8.jpg',
       tags:['FastFood','Hamburger'],
      }
     ];
